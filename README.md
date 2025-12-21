@@ -28,5 +28,5 @@ Contributing
 Please see the contribution page for adding signatures or suggesting improvements.
 
 Resources
-The website for this project, contained in this repo, is currently hosted at straighttalk4Gov.org
+The website for this project, contained in this repo, is currently hosted at [Straighttalk4Gov (Tracy Bannon)](https://straighttalk4gov.org/).
 
